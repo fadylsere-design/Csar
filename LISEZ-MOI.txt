@@ -1,0 +1,45 @@
+CESAR BURKINA — VERSION UNIFIÉE AVEC ARRIÈRE-PLAN VIDÉO
+========================================================
+
+FICHIERS
+- index.html
+- style.css
+- script.js
+
+IMPORTANT : les médias originaux n'ont pas été joints dans la conversation.
+Pour retrouver toutes tes photos et ta vidéo, copie-les depuis ton ancien dossier
+dans la structure ci-dessous, sans changer les noms :
+
+CESAR BURKINA/
+  index.html
+  style.css
+  script.js
+  video-cesar.mp4
+  images/
+    1.jpg ... 12.jpg
+    aicha.jpg
+    mamadou.jpg
+    laurelie.jpg
+    favicon.png
+    restaurant-bg.jpg
+    whatsapp-icon.jpg
+    tiktok.jpg
+    instagram.jpg
+    facebook.jpg
+
+CHANGEMENTS
+- La vidéo video-cesar.mp4 est maintenant prévue comme arrière-plan fixe sur toute la page.
+- Un voile sombre améliore la lisibilité.
+- Le menu, les 12 plats, leurs prix indiqués, les avis et les liens existants sont conservés.
+- Le menu mobile et les boutons de commande WhatsApp fonctionnent.
+- Les cartes du menu ont été rendues plus lisibles sur ordinateur et téléphone.
+
+TEST
+1. Décompresse le ZIP.
+2. Copie ton ancien dossier images complet dans ce dossier.
+3. Copie video-cesar.mp4 à côté de index.html.
+4. Ouvre index.html avec Chrome.
+
+Si le fichier video-cesar.mp4 manque, l'arrière-plan vidéo ne pourra pas s'afficher.
+Le navigateur affichera alors la couleur de fond de secours.
+Le navigateur doit autoriser la lecture automatique muette pour lire la vidéo.
